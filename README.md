@@ -13,14 +13,14 @@ The "Web Application for College Transport Vehicle Booking System" is designed t
   - Assign drivers based on availability and workload.
   ### Role-Based Access Control
   - Admin:
-      Manage users, vehicles, and schedules.
-      Approve bookings and assign vehicles.
-      Generate reports and analytics.
+      - Manage users, vehicles, and schedules.
+      - Approve bookings and assign vehicles.
+      - Generate reports and analytics.
   - Driver:
-      View assigned trips and update trip statuses.
-      Log mileage and fuel consumption details.
+      - View assigned trips and update trip statuses.
+      - Log mileage and fuel consumption details.
   - User (Students/Faculty):
-      Submit booking requests and view booking history.
+      - Submit booking requests and view booking history.
   ### Notifications and Communication
   - Automated notifications for booking confirmation, trip assignment, and reminders.
   - Messaging tab for seamless communication between users, drivers, and admins.
